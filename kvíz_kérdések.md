@@ -66,3 +66,14 @@ Ki tud azonosulni a képen látható mesehőssel?
 
 ![Donald kacsa](./images/donald_duck.avif)
 
+Megfejtés:
+- Bálint ... a kacsa hang miatt
+
+Lehetőségek:
+- [ ] Anna
+- [ ] Gyöngyös
+- [x] Bálint
+- [ ] Rita
+
+
+
