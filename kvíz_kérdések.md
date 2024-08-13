@@ -312,9 +312,34 @@ Megfejtés:
 - [x] a csillaghullást nézték egy kis falubból
 - [ ] nézőként részt vettek egy autóversenyen
 
+### Örök fiatalság
+
+Ki az, aki, hogyha tehetné, szívesen visszatérne az óvodás korba?
+
+Megfejtés:
+- Léna
+
+Lehetőségek:
+- [ ] Eszter
+- [x] Léna
+- [ ] Zsiga
+- [ ] Csenge
+
+### Erősségek
+
+Melyik az a két tulajdonság, amit a legtöbb Csipkebogyó jelölt meg, mint rá jellemző erősséget?
+
+Megfejtés:
+- őszinteség, kedvesség
+
+Lehetőségek:
+- [x] őszinteség, kedvesség
+- [ ] kedvesség, bátorság
+- [ ] kíváncsiság, optimizmus
+- [ ] optimizmus, vezető képesség
 
 
 
 
 
-
+ 
