@@ -183,6 +183,126 @@ Lehetőségek:
 - [ ] Hogyan növelhetnénk az Egyesült Államokban az oktatás minőségét?
 - [ ] Hogyan zárkóztathatnánk fel a fejlődő országok oktatási rendszereit az Egyesült Államok szintjére?
 
+### Kedvenc játék 1.
+
+Kinek a gyerekkori játéka volt Foltos, a maci.
+
+Megfejtés:
+- Orsi ... egy darab foltja volt...
+
+Lehetőségek:
+- [ ] Csenge
+- [x] Orsi
+- [ ] Bálint
+- [ ] Anna
+
+### Kedvenc játék 2.
+
+Kinek a gyerekkori játékai voltak Pipi és Maci.
+
+Megfejtés:
+- Eszter alvós játékai
+
+Lehetőségek:
+- [ ] Csenge
+- [ ] Anna
+- [ ] Léna
+- [x] Eszter
+
+### Kedvenc játék 3.
+
+Kinek a gyerekkori játékai voltak Pipi és Maci.
+
+Megfejtés:
+- Eszter alvós játékai
+
+Lehetőségek:
+- [ ] Csenge
+- [ ] Anna
+- [ ] Léna
+- [x] Eszter
+
+### Kedvenc játék 4.
+
+Kinek a gyerekkori játéka volt egy kis autó, amit sokszor magával vitt.
+
+Megfejtés:
+- Gyöngyös
+
+Lehetőségek:
+- [ ] Bálint
+- [ ] Andris
+- [x] Gyöngyös
+- [ ] Réci
+
+### Kedvenc játék 5.
+
+Kinek a gyerekkori játéka volt Peti, a plüs kutya.
+
+Megfejtés:
+- Csenge
+
+Lehetőségek:
+- [x] Csenge
+- [ ] Andris
+- [ ] Gyöngyös
+- [ ] Léna
+
+### Kedvenc játék 6.
+
+Kinek a gyerekkori játéka volt Peti, a plüs kutya.
+
+Megfejtés:
+- Csenge
+
+Lehetőségek:
+- [x] Csenge
+- [ ] Andris
+- [ ] Gyöngyös
+- [ ] Léna
+
+### Kedvenc játék 7.
+
+Kinek a kedvenc gyerekkori játéka volt egy plüs cica.
+
+Megfejtés:
+- Andris: "... Nevére nem emlékszem, de volt neki."
+
+Lehetőségek:
+- [ ] Csenge
+- [x] Andris
+- [ ] Gyöngyös
+- [ ] Léna
+
+### Kedvenc játék 8.
+
+Kinek a kedvenc gyerekkori játéka volt egy alvós rongybaba.
+
+Megfejtés:
+- Léna játéka, és a neve Babi
+
+Lehetőségek:
+- [ ] Csenge
+- [ ] Andris
+- [ ] Gyöngyös
+- [x] Léna
+
+### Kedvenc játék 9.
+
+Kinek a kedvenc gyerekkori játéka volt Csicsi.
+
+Megfejtés:
+- Réci nyunyókája volt Csicsi
+
+Lehetőségek:
+- [ ] Eszter
+- [ ] Zsiga
+- [x] Réci
+- [ ] Bálint
+
+
+
+
 
 
 
