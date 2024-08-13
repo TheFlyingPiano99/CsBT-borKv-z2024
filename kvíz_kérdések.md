@@ -170,9 +170,19 @@ Lehetőségek:
 
 A felvétel a Miss Teen USA 2007 szépségversenyen készült.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lj3iNxZ8Dww?si=1Un8cpJ2BC_wCmUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lj3iNxZ8Dww?si=R3-OVZyOycjaJCi9&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Az alábbi mondatok melyike 
+Mi volt a kérdés, amire válaszol a hölgy?
+
+Megfejtés:
+- Miért van az, hogy az Egyesült Államok lakosságának ötöde nem találja a térképen az USA-t?
+
+Lehetőségek:
+- [ ] Hogyan csökkenthetnénk a világban jelenlévő éhinséget?
+- [x] Miért van az, hogy az Egyesült Államok lakosságának ötöde nem találja a térképen az USA-t?
+- [ ] Hogyan növelhetnénk az Egyesült Államokban az oktatás minőségét?
+- [ ] Hogyan zárkóztathatnánk fel a fejlődő országok oktatási rendszereit az Egyesült Államok szintjére?
+
+
 
 
