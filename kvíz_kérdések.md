@@ -8,7 +8,7 @@ Kinek a kívánsága az alábbi?
 
 
 ### Trükközősek...
-Hányan írták be a kérdőívbe, hogy "Legyen még három kívánságom!"?
+Hányan írták be a kérdőívbe, hogy "Legyen még három kívánságom!" válaszul a három kívánságos kérdésre?
 
 Megfejtés:
 - 3 (Zsiga, Réci, Andris)
@@ -32,7 +32,7 @@ Lehetőségek:
 - [ ] Eszter
 - [x] Léna
 
-### Kedvenc rajzfilm hős 1.
+### Kedvenc mesehős 1.
 Ki tud azonosulni a képen látható mesehőssel?
 
 ![Tinker Bell](./images/Profile_-_Tinker_Bell.webp)
@@ -46,9 +46,23 @@ Lehetőségek:
 - [x] Orsi
 - [ ] Léna
 
-### Kedvenc rajzfilm hős 2.
+### Kedvenc mesehős 2.
 Ki tud azonosulni a képen látható mesehőssel?
 
 ![Belle a Szépség és Szörnyetegből](./images/Belle_disney.png)
 
+Megfejtés:
+- Eszter: "Talán kinézetre is hasonlítunk, de szeret énekelni, szereti az állatokat stb."
+
+Lehetőségek:
+- [ ] Orsi
+- [x] Eszter
+- [ ] Léna
+- [ ] Anna
+
+### Kedvenc mesehős 3.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Donald kacsa](./images/donald_duck.avif)
 
