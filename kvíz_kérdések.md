@@ -300,6 +300,18 @@ Lehetőségek:
 - [x] Réci
 - [ ] Bálint
 
+### Vakáció
+Orsi szívesen újraélne egy görögországi családi nyaralást.
+Milyen különleges élményt éltek ott át közösen?
+
+Megfejtés:
+- "Mikor egyszer Görögországban egy kis faluban sétáltunk este a családommal és a csillaghullást néztük. (A végére mindenkinek a nyaka begörcsölt.)"
+
+- [ ] együtt úsztak a cápákkal
+- [ ] részt vettek egy helyi esküvőn
+- [x] a csillaghullást nézték egy kis falubból
+- [ ] nézőként részt vettek egy autóversenyen
+
 
 
 
