@@ -120,6 +120,46 @@ Lehetőségek:
 - [ ] Eszter
 - [x] Réci
 
+### Kedvenc mesehős 7.
 
+Ki tud azonosulni a képen látható mesehőssel?
 
+![Gombóc Artúr](./images/katica.jpg)
 
+Megfejtés:
+- Réci: "mert hasonlóan naív vagyok"
+
+Lehetőségek:
+- [ ] Anna
+- [ ] Csenge
+- [ ] Eszter
+- [x] Réci
+
+### Kedvenc mesehős 8.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Gombóc Artúr](./images/gombóc_artúr_szondi_utca.jpg)
+
+Megfejtés:
+- Gyöngyös: "Szeretem a lyukas, a kerek, a szögletes, a tömör, a gömbölyű csokoládét."
+
+Lehetőségek:
+- [x] Gyöngyös
+- [ ] Bálint
+- [ ] Csenge
+- [ ] Zsiga
+
+### Szobrászat
+
+Gyöngyös számára kedves meseszereplő, Gombóc Artúr szobra megtalálható a Balatonnál.
+Pontosan hol van ez a szobor?
+
+Megfejtés:
+- A szobor a Tihanyi Bencés Apátságnál, a Pisky sétány mentén található. Az alkotás Kolodko Mihály munkája.
+
+Lehetőségek:
+- [ ] Siófok
+- [ ] Zamárdi
+- [ ] Zánka 
+- [x] Tihany
