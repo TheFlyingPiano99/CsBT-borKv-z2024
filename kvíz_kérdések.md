@@ -124,21 +124,6 @@ Lehetőségek:
 
 Ki tud azonosulni a képen látható mesehőssel?
 
-![Gombóc Artúr](./images/katica.jpg)
-
-Megfejtés:
-- Réci: "mert hasonlóan naív vagyok"
-
-Lehetőségek:
-- [ ] Anna
-- [ ] Csenge
-- [ ] Eszter
-- [x] Réci
-
-### Kedvenc mesehős 8.
-
-Ki tud azonosulni a képen látható mesehőssel?
-
 ![Gombóc Artúr](./images/gombóc_artúr_szondi_utca.jpg)
 
 Megfejtés:
@@ -163,3 +148,20 @@ Lehetőségek:
 - [ ] Zamárdi
 - [ ] Zánka 
 - [x] Tihany
+
+### Kedvenc mesehős 8.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Gombóc Artúr](./images/Sid_Ice-Age.webp)
+
+Megfejtés:
+- Léna: "Elsőként Sid jut eszembe a jégkorszakból, mert szeret bolondozni, de óriási szeretettel van a többiek felé, néha picit naiv, de amúgy vicces amiket művel :))"
+
+Lehetőségek:
+- [x] Léna
+- [ ] Anna
+- [ ] Csenge
+- [ ] Ziga
+
+
