@@ -155,7 +155,7 @@ Lehetőségek:
 
 Ki tud azonosulni a képen látható mesehőssel?
 
-![Gombóc Artúr](./images/Sid_Ice-Age.webp)
+![Sid](./images/Sid_Ice-Age.webp)
 
 Megfejtés:
 - Léna: "Elsőként Sid jut eszembe a jégkorszakból, mert szeret bolondozni, de óriási szeretettel van a többiek felé, néha picit naiv, de amúgy vicces amiket művel :))"
@@ -165,5 +165,13 @@ Lehetőségek:
 - [ ] Anna
 - [ ] Csenge
 - [ ] Zsiga
+
+### Miss South Carolina
+
+A felvétel a Miss Teen USA 2007 szépségversenyen készült.
+
+![South carolina](https://www.youtube.com/watch?v=lj3iNxZ8Dww)
+
+Az alábbi mondatok melyike 
 
 
