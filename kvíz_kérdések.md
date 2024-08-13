@@ -327,10 +327,12 @@ Lehetőségek:
 
 ### Erősségek
 
-Melyik az a két tulajdonság, amit a legtöbb Csipkebogyó jelölt meg, mint rá jellemző erősséget?
+Melyik az a két legnépszerűbb tulajdonság, amit a legtöbb Csipkebogyó jelölt meg, mint rá jellemző erősséget?
 
 Megfejtés:
 - őszinteség, kedvesség
+
+![Erősségek statisztikája](./images/erősségek_stats.png)
 
 Lehetőségek:
 - [x] őszinteség, kedvesség
