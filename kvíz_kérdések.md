@@ -11,17 +11,17 @@ Kinek a kívánsága az alábbi?
 Hányan írták be a kérdőívbe, hogy "Legyen még három kívánságom!"?
 
 Megfejtés:
-    - 3 (Zsiga, Réci, Andris)
+- 3 (Zsiga, Réci, Andris)
 Lehetőségek:
-    - [ ] 0
-    - [ ] 1
-    - [x] 3
-    - [ ] 5
+- [ ] 0
+- [ ] 1
+- [x] 3
+- [ ] 5
 
 ### World Wide
 Ki fogalmazott meg utazással / világot látással kapcsolatos kívánságokat?
 
 Megfejtés:
-   - Gyöngyös szeretne Sydnie híd tetejére felmenni és Koreába eljutni  
-   - Léna szeretne valamilyen repülőzős ViP kártyát, hogy élete végéig olcsón repülhessen
+- Gyöngyös szeretne Sydnie híd tetejére felmenni és Koreába eljutni  
+- Léna szeretne valamilyen repülőzős ViP kártyát, hogy élete végéig olcsón repülhessen
 
