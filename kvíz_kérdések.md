@@ -170,8 +170,12 @@ Lehetőségek:
 
 A felvétel a Miss Teen USA 2007 szépségversenyen készült.
 
-![South carolina](https://www.youtube.com/watch?v=lj3iNxZ8Dww)
-
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/lj3iNxZ8Dww?si=1Un8cpJ2BC_wCmUm"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 Az alábbi mondatok melyike 
 
 
