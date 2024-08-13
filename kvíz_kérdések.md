@@ -75,5 +75,19 @@ Lehetőségek:
 - [x] Bálint
 - [ ] Rita
 
+### Kedvenc mesehős 4.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Kockásfülű Nyúl](./images/kockásfülű_nyúl.jpg)
+
+Megfejtés:
+- Csenge, mert segítőkész
+
+Lehetőségek:
+- [ ] Anna
+- [x] Csenge
+- [ ] Gyöngyös
+- [ ] Andris
 
 
