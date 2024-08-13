@@ -32,9 +32,23 @@ Lehetőségek:
 - [ ] Eszter
 - [x] Léna
 
-### Kedvenc rajzfilm hős
+### Kedvenc rajzfilm hős 1.
 Ki tud azonosulni a képen látható mesehőssel?
 
 ![Tinker Bell](./images/Profile_-_Tinker_Bell.webp)
+
+Megfejtés:
+- Orsi (Régen volt kedvence, és azért mert mindketten pipacspirosak lesznek, ha valami nem tetszik / mérgesek / nem úgy alakul valami, ahogyan elképzelték)
+
+Lehetőségek:
+- [ ] Csenge
+- [ ] Eszter
+- [x] Orsi
+- [ ] Léna
+
+### Kedvenc rajzfilm hős 2.
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Belle a Szépség és Szörnyetegből](./images\Belle_disney.png)
 
 
