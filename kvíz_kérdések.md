@@ -140,6 +140,8 @@ Lehetőségek:
 Gyöngyös számára kedves meseszereplő, Gombóc Artúr szobra megtalálható a Balatonnál.
 Pontosan hol van ez a szobor?
 
+![Gombóc Artúr szobor](./images/gombóc_artúr_szobor.jpg)
+
 Megfejtés:
 - A szobor a Tihanyi Bencés Apátságnál, a Pisky sétány mentén található. Az alkotás Kolodko Mihály munkája.
 
@@ -162,6 +164,6 @@ Lehetőségek:
 - [x] Léna
 - [ ] Anna
 - [ ] Csenge
-- [ ] Ziga
+- [ ] Zsiga
 
 
