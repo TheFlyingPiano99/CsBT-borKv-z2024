@@ -90,4 +90,22 @@ Lehetőségek:
 - [ ] Gyöngyös
 - [ ] Andris
 
+### Kedvenc mesehős 5.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Villám McQueen](./images/villám_mcq.jpeg)
+
+Megfejtés:
+- Andris ... versenyzés és ha úgy van akkor annak felülírása egy nagyobb jó érdékebén
+
+Lehetőségek:
+- [ ] Zsiga
+- [ ] Bálint
+- [x] Andris
+- [ ] Réci
+
+
+
+
 
