@@ -20,15 +20,21 @@ Lehetőségek:
 - [ ] 5
 
 ### World Wide
-Ki fogalmazott meg utazással / világot látással kapcsolatos kívánságokat?
+Ki fogalmazott meg vakamilyen utazással / világot látással kapcsolatos kívánságot?
 
 Megfejtés:
 - Gyöngyös szeretne Sydnie híd tetejére felmenni és Koreába eljutni  
 - Léna szeretne valamilyen repülőzős ViP kártyát, hogy élete végéig olcsón repülhessen
 
 Lehetőségek:
-- [] Réci
-- [] Gyöngyös
-- [] Eszter
-- [] Léna
+- [ ] Réci
+- [x] Gyöngyös
+- [ ] Eszter
+- [x] Léna
+
+### Kedvenc rajzfilm hős
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Tinker Bell](./images/Profile_-_Tinker_Bell.webp)
+
 
