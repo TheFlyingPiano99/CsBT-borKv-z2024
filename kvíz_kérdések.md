@@ -312,6 +312,17 @@ Megfejtés:
 - [x] a csillaghullást nézték egy kis falubból
 - [ ] nézőként részt vettek egy autóversenyen
 
+### Melyik szülő?
+Megkérdeztük, hogy melyik szülőtökre hasonlítotok jobban?
+Mit tippeltek: az anyukák, vagy az apukák kaptak több szavazatot?
+
+Megfejtés:
+- Az apák nyertek 63,6%-kal.
+
+Lehetőségek:
+- [ ] anyák
+- [x] apák
+
 ### Örök fiatalság
 
 Ki az, aki, hogyha tehetné, szívesen visszatérne az óvodás korba?
