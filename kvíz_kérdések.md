@@ -49,6 +49,6 @@ Lehetőségek:
 ### Kedvenc rajzfilm hős 2.
 Ki tud azonosulni a képen látható mesehőssel?
 
-![Belle a Szépség és Szörnyetegből](./images\Belle_disney.png)
+![Belle a Szépség és Szörnyetegből](./images/Belle_disney.png)
 
 
