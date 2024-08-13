@@ -325,7 +325,7 @@ Lehetőségek:
 
 ### Örök fiatalság
 
-Ki az, aki, hogyha tehetné, szívesen visszatérne az óvodás korba?
+Ki az, aki néha úgy érzi, hogy szívesen visszatérne az óvodás korba?
 
 Megfejtés:
 - Léna
