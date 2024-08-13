@@ -105,6 +105,20 @@ Lehetőségek:
 - [x] Andris
 - [ ] Réci
 
+### Kedvenc mesehős 6.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Vízipókból a katica](./images/katica.jpg)
+
+Megfejtés:
+- Réci: "mert hasonlóan naív vagyok"
+
+Lehetőségek:
+- [ ] Anna
+- [ ] Csenge
+- [ ] Eszter
+- [x] Réci
 
 
 
