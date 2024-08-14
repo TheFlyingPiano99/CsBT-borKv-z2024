@@ -11,13 +11,13 @@ Kinek a kívánsága az alábbi?
 Hányan írták be a kérdőívbe, hogy "Legyen még három kívánságom!" válaszul a három kívánságos kérdésre?
 
 Megfejtés:
-- 3 (Zsiga, Réci, Andris)
+- 4 (Zsiga, Réci, Andris, Sára)
 
 Lehetőségek:
 - [ ] 0
 - [ ] 1
-- [x] 3
-- [ ] 5
+- [x] 4
+- [ ] 6
 
 ### World Wide
 Ki fogalmazott meg vakamilyen utazással / világot látással kapcsolatos kívánságot?
@@ -73,7 +73,7 @@ Lehetőségek:
 - [ ] Anna
 - [ ] Gyöngyös
 - [x] Bálint
-- [ ] Rita
+- [ ] Emese
 
 ### Kedvenc mesehős 4.
 
@@ -103,7 +103,7 @@ Lehetőségek:
 - [ ] Zsiga
 - [ ] Bálint
 - [x] Andris
-- [ ] Réci
+- [ ] Emese
 
 ### Kedvenc mesehős 6.
 
@@ -163,8 +163,23 @@ Megfejtés:
 Lehetőségek:
 - [x] Léna
 - [ ] Anna
-- [ ] Csenge
+- [ ] Sári
 - [ ] Zsiga
+
+### Kedvenc mesehős 9.
+
+Ki tud azonosulni a képen látható mesehőssel?
+
+![Sid](./images/Mulan_disney.png)
+
+Megfejtés:
+- Sári "... mert elszánt, kitartó, és meg akarja védeni a családját. Ja és nőként harcol a férfiak között…"
+
+Lehetőségek:
+- [ ] Eszter
+- [ ] Anna
+- [x] Sári
+- [ ] Orsi
 
 ### Miss South Carolina
 
@@ -341,7 +356,7 @@ Lehetőségek:
 Melyik az a két legnépszerűbb tulajdonság, amit a legtöbb Csipkebogyó jelölt meg, mint rá jellemző erősséget?
 
 Megfejtés:
-- őszinteség, kedvesség
+- őszinteség (12/13; 92,3%), kedvesség (9/13; 69,2%)
 
 ![Erősségek statisztikája](./images/erősségek_stats.png)
 
