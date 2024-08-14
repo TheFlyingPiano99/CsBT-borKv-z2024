@@ -367,7 +367,22 @@ Lehetőségek:
 - [ ] optimizmus, vezető képesség
 
 
+### Dicsőítés
+Lénát kikapcsolja és feltölti a dicsőítő zene hallgatása.
+Az alábbi videón az Imperfectum együttes előadásából hallunk részletet az MSzT-ből.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ueh_V_29j84?si=wSAPIdolOyllDk4q&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Kérdés:
+Melyik magyar zeneszerző dolgozta fel az imént hallott dalt Adventi ének címen?
 
+Megfejtés:
+- Kodály Zoltán - Adventi ének vegyeskarra
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQLcljlmKnY?si=vCoZOEFC_IrNC6E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Lehetőségek:
+- [ ] Dohnányi Ernő
+- [ ] Egressy Béni
+- [ ] Kadosa Pál
+- [x] Kodály Zoltán
  
