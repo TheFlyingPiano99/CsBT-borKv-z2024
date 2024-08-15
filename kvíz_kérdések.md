@@ -38,7 +38,7 @@ Ki tud azonosulni a képen látható mesehőssel?
 ![Tinker Bell](./images/Profile_-_Tinker_Bell.webp)
 
 Megfejtés:
-- Orsi (Régen volt kedvence, és azért mert mindketten pipacspirosak lesznek, ha valami nem tetszik / mérgesek / nem úgy alakul valami, ahogyan elképzelték)
+- Orsi (Tinker Bell régen volt kedvence, és azért mert mindketten pipacspirosak lesznek, ha valami nem tetszik / mérgesek / nem úgy alakul valami, ahogyan elképzelték)
 
 Lehetőségek:
 - [ ] Csenge
@@ -265,19 +265,6 @@ Lehetőségek:
 
 ### Kedvenc játék 6.
 
-Kinek a gyerekkori játéka volt Peti, a plüs kutya.
-
-Megfejtés:
-- Csenge
-
-Lehetőségek:
-- [x] Csenge
-- [ ] Andris
-- [ ] Gyöngyös
-- [ ] Léna
-
-### Kedvenc játék 7.
-
 Kinek a kedvenc gyerekkori játéka volt egy plüs cica.
 
 Megfejtés:
@@ -374,7 +361,7 @@ Az alábbi videón az Imperfectum együttes előadásából hallunk részletet a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ueh_V_29j84?si=wSAPIdolOyllDk4q&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Kérdés:
-Melyik magyar zeneszerző dolgozta fel az imént hallott dalt Adventi ének címen?
+Melyik magyar zeneszerző dolgozta fel az imént hallott éneket?
 
 Megfejtés:
 - Kodály Zoltán - Adventi ének vegyeskarra
@@ -385,4 +372,8 @@ Lehetőségek:
 - [ ] Egressy Béni
 - [ ] Kadosa Pál
 - [x] Kodály Zoltán
- 
+
+
+
+
+
